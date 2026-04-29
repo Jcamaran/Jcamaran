@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Joaquin 👋
 
 **CS @ Sacred Heart University | Software Engineer**
@@ -10,9 +12,13 @@
 
 ## 🚀 About Me
 
-I'm a Computer Science student at Sacred Heart University with a passion for building robust, scalable software solutions. Former **Data Analytics Engineer at ASML**, now working as a **Software Engineer** on the **Sikorsky Smart Corrective Action Assistant (SCAA)** RAG project—an enterprise document intelligence platform leveraging AI, natural language processing, and full-stack development.
+<p align="center">
+I'm a Computer Science student at Sacred Heart University with a passion for building robust, scalable software solutions. Former <b>Data Analytics Engineer at ASML</b>, now working as a <b>Software Engineer</b> on the <b>Sikorsky Smart Corrective Action Assistant (SCAA)</b> RAG project—an enterprise document intelligence platform leveraging AI, natural language processing, and full-stack development.
+</p>
 
-# 💻 Tech Stack
+---
+
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -31,4 +37,4 @@ I'm a Computer Science student at Sacred Heart University with a passion for bui
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
----
+</div>
