@@ -39,19 +39,6 @@ I'm a Computer Science student at Sacred Heart University with a passion for bui
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
-## 🔭 Current Projects
-
-- **SCAA RAG System**: Enterprise document intelligence platform with hybrid search, conversation management, and real-time analytics
-- Building intelligent systems that combine traditional software engineering with cutting-edge AI capabilities
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## 📫 Let's Connect
-
-Feel free to reach out if you want to collaborate on projects or just chat about technology!
 
 ---
 
