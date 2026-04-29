@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Joaquin 👋
 
-<!--
-**Jcamaran/Jcamaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS @ Sacred Heart University | Software Engineer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a Computer Science student at Sacred Heart University with a passion for building robust, scalable software solutions. Currently working on enterprise-level applications involving AI, natural language processing, and full-stack development.
+
+## 💻 Tech Stack
+
+**Languages**  
+Python • TypeScript • JavaScript • SQL
+
+**Backend**  
+FastAPI • SQLAlchemy • PostgreSQL • Docker
+
+**Frontend**  
+React • Vite • TailwindCSS • TypeScript
+
+**AI/ML**  
+OpenAI API • Vector Embeddings • RAG Systems • Semantic Search
+
+**DevOps & Tools**  
+Docker • Git • Nginx • Alembic • Prometheus • Grafana
+
+⭐️ From [Joaquin](https://github.com/yourusername)
