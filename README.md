@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 <p align="center">
-I'm a Computer Science student at Sacred Heart University with a passion for building robust, scalable software solutions. Former <b>Data Analytics Engineer at ASML</b>, now working as a <b>Software Engineer</b> on the <b>Sikorsky Smart Corrective Action Assistant (SCAA)</b> RAG project—an enterprise document intelligence platform leveraging AI, natural language processing, and full-stack development.
+I'm a Computer Science student at Sacred Heart University with a passion for building robust, scalable software solutions. Former <b>Data Analytics Engineering Intern at ASML</b>, now working as a <b>Software Engineer</b> on the <b>Sikorsky Smart Corrective Action Assistant (SCAA)</b> RAG project—an enterprise document intelligence platform leveraging AI, natural language processing, and full-stack development.
 </p>
 
 ---
