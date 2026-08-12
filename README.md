@@ -15,10 +15,9 @@ Computer Science Graduate From Sacred Heart University. Former Software Engineer
 
 
 
+# Certifications
 
-# Certficiations:
-- ![AWS Certified Cloud Practitioner](https://www.credly.com/badges/5502639a-1b53-4f52-826f-697cf3684f96/public_url)
+| Certification | Issued By | Verification |
+| :--- | :---: | :---: |
+| **AWS Certified Cloud Practitioner** | Amazon Web Services | [<img src="https://images.credly.com/size/110x110/images/68499e3a-caab-4ba3-b21a-e8d91b4fa055/image.png" width="80" alt="AWS Cloud Practitioner">](https://www.credly.com/badges/5502639a-1b53-4f52-826f-697cf3684f96/public_url) |
 ---
-[![](https://komarev.com/ghpvc/?username=Jcamaran&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
