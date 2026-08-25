@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🍓 About Me:
 Computer Science Graduate From Sacred Heart University. Former Software Engineer on the Sikorsky Smart Corrective Action Assistant (SCAA) RAG project—an enterprise document intelligence platform leveraging AI, natural language processing, and full-stack development
 
 
